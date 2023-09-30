@@ -2,7 +2,7 @@ package service;
 
 public class QalanadarService {
 
-    String name;
+    private String name;
 
     public String getName(){
         return name;
